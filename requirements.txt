@@ -2,4 +2,5 @@ antropy
 numpy
 pandas
 pympi
+scipy
 
